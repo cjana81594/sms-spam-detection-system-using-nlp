@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+numpy
+scipy
+nltk
+stopword
+matplotlib
+seaborn
